@@ -1,7 +1,7 @@
 # Fertilizer_Prediction
 This is Fertilizer Prediction Model
 
-Step 1: Import all the required Libraries.Since i am using Machine Learning and Deep Learning in same file i have imported all the required libraries for the same.\n
+Step 1: Import all the required Libraries.Since i am using Machine Learning and Deep Learning in same file i have imported all the required libraries for the same.
 Step 2: Perform Exploratory Data Analysis (EDA)
 Step 3: Perform Feature Engineering on all the Features.
 Step 4: separate Training and Test set.
